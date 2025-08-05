@@ -10,4 +10,4 @@ print('ciaoo')
 print('mi chiamo Mario')
 
 #----2 modifica di Mario------
-print('mi chiamo Giuseppe!!!')
+print('mi chiamo MARIO!!!')
